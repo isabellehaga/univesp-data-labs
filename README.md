@@ -11,7 +11,7 @@ Este repositório contém os arquivos produzidos durante as aulas do curso de **
 O objetivo deste repositório é **organizar e registrar meu aprendizado em Data Science**, servindo como referência e portfólio de estudos práticos.
 
 ## Estrutura sugerida
-?????
+
 
 ## Observações
 - Alguns notebooks podem conter dados fictícios ou amostras pequenas para fins de estudo.
